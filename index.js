@@ -70,7 +70,7 @@ client.login(token);
 
 
 //notes:
-
+//3/8/2020: Program should run, but console gives error Type null to int in oppusscript. Will need to research more.
 
 //sources:
 //1. https://discordjs.guide/creating-your-bot/commands-with-user-input.html#basic-arguments
